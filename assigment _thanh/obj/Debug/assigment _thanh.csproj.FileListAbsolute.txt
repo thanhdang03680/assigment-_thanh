@@ -1,0 +1,13 @@
+C:\Users\Thanh\Documents\Visual Studio 2013\projects 10\assigment _thanh\assigment _thanh\bin\Debug\assigment _thanh.exe.config
+C:\Users\Thanh\Documents\Visual Studio 2013\projects 10\assigment _thanh\assigment _thanh\bin\Debug\assigment _thanh.exe
+C:\Users\Thanh\Documents\Visual Studio 2013\projects 10\assigment _thanh\assigment _thanh\bin\Debug\assigment _thanh.pdb
+C:\Users\Thanh\Documents\Visual Studio 2013\projects 10\assigment _thanh\assigment _thanh\obj\Debug\assigment _thanh.csprojResolveAssemblyReference.cache
+C:\Users\Thanh\Documents\Visual Studio 2013\projects 10\assigment _thanh\assigment _thanh\obj\Debug\assigment__thanh.Properties.Resources.resources
+C:\Users\Thanh\Documents\Visual Studio 2013\projects 10\assigment _thanh\assigment _thanh\obj\Debug\assigment _thanh.csproj.GenerateResource.Cache
+C:\Users\Thanh\Documents\Visual Studio 2013\projects 10\assigment _thanh\assigment _thanh\obj\Debug\assigment _thanh.exe
+C:\Users\Thanh\Documents\Visual Studio 2013\projects 10\assigment _thanh\assigment _thanh\obj\Debug\assigment _thanh.pdb
+C:\Users\Thanh\Documents\Visual Studio 2013\projects 10\assigment _thanh\assigment _thanh\obj\Debug\assigment__thanh.Quanly.resources
+C:\Users\Thanh\Documents\Visual Studio 2013\projects 10\assigment _thanh\assigment _thanh\obj\Debug\assigment__thanh.Khachhang.resources
+C:\Users\Thanh\Documents\Visual Studio 2013\projects 10\assigment _thanh\assigment _thanh\obj\Debug\assigment__thanh.Sanpham.resources
+C:\Users\Thanh\Documents\Visual Studio 2013\projects 10\assigment _thanh\assigment _thanh\obj\Debug\assigment__thanh.formtim.resources
+C:\Users\Thanh\Documents\Visual Studio 2013\projects 10\assigment _thanh\assigment _thanh\obj\Debug\assigment__thanh.timkiemcbb.resources
